@@ -3,7 +3,7 @@
 - Estou atualmente estudando JAVASCRIPT e JAVA
 - Pronouns: ela/dela
   ##
-![Mireille GitHub Stats ](https://github-readme-stats.vercel.app/api?username=MireilleCristina&show_icons=true&theme=radical)
+![Mireille GitHub stats](https://github-readme-stats.vercel.app/api?username=MireilleCristina&show_icons=true&theme=radical)
 <div align="center">
   <a href="https://github.com/MireilleCristina">
  
