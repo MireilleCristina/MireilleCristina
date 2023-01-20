@@ -1,4 +1,4 @@
-### Olá,eu sou Mireille 😊
+### Olá,eu sou a Mireille 😊
 - Estou em transição de carreira
 - Estou atualmente estudando JAVASCRIPT e JAVA
 - Pronouns: ela/dela
