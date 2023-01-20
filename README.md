@@ -1,6 +1,6 @@
 ### Olá,eu sou Mireille 😊
 - Estou em transição de carreira
-- Estou atualmente estudando JAVASCRIPT 
+- Estou atualmente estudando JAVASCRIPT e Java
 - Pronouns: ela/dela
   ##
 
