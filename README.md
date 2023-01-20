@@ -17,6 +17,6 @@
 <div> 
  
   ![Snake animation](https://github.com/MireilleCristina/MireilleCristina/blob/output/github-contribution-grid-snake.svg)
- 
+ ![Mireille GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireille&show_icons=true&theme=radical)
 </div>
-![Mireille GitHub stats](https://github-readme-stats.vercel.app/api?username=Mireille&show_icons=true&theme=radical)
+
