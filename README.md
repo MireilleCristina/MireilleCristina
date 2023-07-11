@@ -1,6 +1,6 @@
 ### Olá,eu sou a Mireille 😊
 - Estou em transição de carreira
-- Estou atualmente estudando PHP, JAVASCRIPT e JAVA
+- Estou atualmente estudando PHP,Java, CSS, HTML, JAVASCRIPT e JAVA
 - Pronouns: ela/dela
   ##
 ![Mireille GitHub stats](https://github-readme-stats.vercel.app/api?username=MireilleCristina&show_icons=true&theme=radical)
